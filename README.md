@@ -12,7 +12,8 @@ Place the exe inside an empty folder and run it, there will be instruction writt
 
 ```
 pip install -r reqirements.txt
+
 pyinstaller --onefile main.py
-```
 
 The output ".exe" will be put inside the "dist" folder
+```
